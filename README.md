@@ -5,4 +5,7 @@ Maybe it's the one of the best plug-in for highlight of 840d language in softwar
 
 user-->define your language ---> import the xml 
 
-need support or any update request , please contact allen.wangjijiang@hotmail.com
+Support or any update request , please contact allen.wangjijiang@hotmail.com.
+
+Thanks Ivan-radic for the UI to create and export the xml.
+https://ivan-radic.github.io/udl-documentation/
